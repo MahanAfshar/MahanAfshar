@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&width:500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mahan+Afshar;" />
 </h1>
 
-<h3 style="display: flex; align-items: center; justify-content: center; column-gap: 4px">
+<h3>
   <span style="padding-bottom: 8px;">I'm a front-end developer from Iran</span>
-  <img src="https://em-content.zobj.net/source/twitter/71/flag-for-iran_1f1ee-1f1f7.png" style="width: 30; padding-top: 4" />
+  <img src="https://em-content.zobj.net/source/twitter/71/flag-for-iran_1f1ee-1f1f7.png" style="width: 30px; padding-top: 4px" />
 </h3>
 
 <div>
