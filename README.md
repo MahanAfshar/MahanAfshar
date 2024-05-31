@@ -32,9 +32,8 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
+  <br/>
   <a href="https://skillicons.dev">
-    
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,firebase,git,github&theme=dark" />
-    
   </a>
 </div>
