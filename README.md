@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a front-end developer from Iran
-  <img src="https://img.freepik.com/premium-vector/table-flag-iran_157999-1973.jpg" width="30" />
+  I'm a front-end developer from Iran (🇮🇷)
 </h3>
 
 <div align="center">
@@ -33,8 +32,9 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-  
   <a href="https://skillicons.dev">
+    
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,firebase,git,github&theme=dark" />
+    
   </a>
 </div>
