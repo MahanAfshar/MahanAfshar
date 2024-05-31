@@ -3,8 +3,8 @@
 </h1>
 
 <h3 style="display: flex; align-items: center; justify-content: center; column-gap: 4px">
-  <p style="padding-bottom: 8px;">I'm a front-end developer from Iran</p>
-  <img src="https://em-content.zobj.net/source/twitter/71/flag-for-iran_1f1ee-1f1f7.png" width="30" />
+  <span style="padding-bottom: 8px;">I'm a front-end developer from Iran</span>
+  <img src="https://em-content.zobj.net/source/twitter/71/flag-for-iran_1f1ee-1f1f7.png" style="width: 30; padding-top: 4" />
 </h3>
 
 <div>
