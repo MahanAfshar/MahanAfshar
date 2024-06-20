@@ -23,7 +23,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue"
   </a>
-  <a href="#" target="_blank">
+  <a href="https://t.me/mahanafshaar" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue"
   </a>
 </div>
