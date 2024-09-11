@@ -10,7 +10,7 @@
   
    💻 I’m currently working on my new project
   
-   📖 I’m currently learning next.js
+   📖 I’m currently working as a freelancer
     
    🤔 Ask me about front-end development
    
@@ -20,7 +20,7 @@
   <a href="mailto:mahan.ghaffarzadeh.afshar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
   </a>
-  <a href="#" target="_blank">
+  <a href="https://ir.linkedin.com/in/mahan-afshar-308aa2321?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue"
   </a>
   <a href="https://t.me/mahanafshaar" target="_blank">
@@ -34,6 +34,6 @@
 <div align="center">
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,firebase,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,git,github,firebase&theme=dark" />
   </a>
 </div>
